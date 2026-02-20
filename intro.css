@@ -1929,6 +1929,6 @@ body{
 /* Mobile scale */
 @media (max-width:768px){
   #app{
-    transform: scale(0.6);
+    transform: scale(0.5);
   }
 }
